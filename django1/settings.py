@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-t=$y$1)3#6&v(1zk0#3t3ns$uxp1jfdp0e%@l2av(^_&92#sw=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] #
+ALLOWED_HOSTS = ['django1-quintela.git''] #
 
 
 # Application definition
